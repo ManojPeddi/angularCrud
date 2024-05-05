@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Manoj Kumar Peddi",
+      "mobile": "8553886391",
+      "email": "v.manojkumarpeddi@gmail.com",
+      "password": "Lksman",
+      "id": 1
+    },
+    {
+      "name": "Vara lakshmi",
+      "mobile": "99999999",
+      "email": "lovlyluckyi@gmail.com",
+      "password": "manulucky123",
+      "id": 2
+    },
+    {
+      "name": "Vara lakshmi",
+      "mobile": "99999999",
+      "email": "manui@gmail.in",
+      "password": "manulucky123",
+      "id": 3
+    }
+  ]
+}
